@@ -1,2 +1,1 @@
-Create conflict
-on branch-a
+Creating merge conflict on branch-a 
