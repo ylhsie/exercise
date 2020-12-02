@@ -1,2 +1,2 @@
-Creating conflict
+Create conflict
 on branch-a
